@@ -1,2 +1,2 @@
-# DATA-ANALYTICS
-Public repo for all my projects 
+CLAUDE AI POWER BI DASHBOARD
+
